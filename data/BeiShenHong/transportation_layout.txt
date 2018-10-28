@@ -1,0 +1,4 @@
+nodeID nodeLabel nodeLong nodeLat
+1 Beijing 116.426892 39.925209
+2 Shenzhen 114.054977 22.545755
+3 Hongkong 114.169073 22.276581
